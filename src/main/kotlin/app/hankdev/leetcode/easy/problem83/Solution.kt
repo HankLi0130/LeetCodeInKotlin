@@ -1,4 +1,4 @@
-package dev.hankli.leetcode.easy.problem83
+package app.hankdev.leetcode.easy.problem83
 
 class Solution {
     fun deleteDuplicates(head: ListNode?): ListNode? {

@@ -1,4 +1,4 @@
-package dev.hankli.leetcode.easy.problem344
+package app.hankdev.leetcode.easy.problem344
 
 /**
  * https://leetcode.com/problems/reverse-string/
